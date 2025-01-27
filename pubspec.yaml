@@ -1,0 +1,28 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/bg_startscreen.png
+    - assets/images/cupcake_chick.png
+    - assets/images/bg_mainscreen.png
+    - assets/images/cupkake_cat.png
+    - assets/images/icecream.png
+    - assets/images/icecream_cone.png
+    - assets/images/icecream_stick.png
+    - assets/images/burger.png
